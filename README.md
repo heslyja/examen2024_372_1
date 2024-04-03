@@ -150,12 +150,12 @@
     ```
 ---
 - [x] Una vez completado el script ejecutarlo para validar que haga lo antes pedido: `./create.sh`
-- [ ] Renombrar el archivo `examen372.md` a **`README.md`** con la terminal y moverlo a la carpeta *`"examen372"`* con el comando *`"mv"`*
-- [ ] Guardar el historial de sus comandos: *`history > history.txt`*
-- [ ] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen2024_372_1`* y subir (los archivos contenidos en la carpeta *`"examen372"`*):
-  - [ ]  El historial de comandos *`history.txt`* 
-  - [ ]  El script bash *`create.sh`*
-  - [ ]  El archivo *`README.md`*
+- [x] Renombrar el archivo `examen372.md` a **`README.md`** con la terminal y moverlo a la carpeta *`"examen372"`* con el comando *`"mv"`*
+- [x] Guardar el historial de sus comandos: *`history > history.txt`*
+- [x] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen2024_372_1`* y subir (los archivos contenidos en la carpeta *`"examen372"`*):
+  - [x]  El historial de comandos *`history.txt`* 
+  - [x]  El script bash *`create.sh`*
+  - [x]  El archivo *`README.md`*
 ---
 
 ### Extras:
