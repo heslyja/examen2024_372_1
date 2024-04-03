@@ -1,0 +1,18 @@
+    1  mkdir examen372
+    2  cd examen372
+    3  touch create.sh
+    4  echo '#! /bin/bash' >> create.sh
+    5  ./create.sh
+    6  ./create.sh
+    7  ./create.sh
+    8  cmd //c tree //F ./
+    9  ./create.sh
+   10  cmd //c tree //F ./
+   11  ./create.sh
+   12  ./create.sh
+   13  cmd //c tree //F ./
+   14  mv examen372.md README.md
+   15  cd ..
+   16  mv examen372.md README.md
+   17  mv README.md ./examen372/
+   18  history > history.txt
